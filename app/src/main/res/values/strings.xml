@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TruthAndDare</string>
+    <string name="truth">Truth</string>
+    <string name="or">Or</string>
+    <string name="dare">Dare</string>
+    <string name="choose_one">Choose One</string>
+    <string name="number_of_player_2_6">Number Of Player( 2-6 )</string>
+    <string name="enter_the_game">Enter the Game</string>
+</resources>

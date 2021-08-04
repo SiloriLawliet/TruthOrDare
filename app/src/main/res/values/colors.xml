@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#E2F09819</color>
+    <color name="color_primary_variant">#E2F09819</color>
+    <color name="color_primary_accent">#CDFFC107</color>
+    <color name="background_color">#fff</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <!--    <color name="color_on_primary">#FFFFFFFF</color>-->
+    <color name="color_on_primary">#FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="disable_button">#7E7C7C</color>
+
+</resources>
